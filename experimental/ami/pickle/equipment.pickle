@@ -1,0 +1,19 @@
+(lp0
+(lp1
+S'Arduino'
+p2
+aS'Atmega328 microcontroller board'
+p3
+aS'A000066'
+p4
+aI9
+aa(lp5
+S'RaspberryPi'
+p6
+aS'ARM computer for embedded applications'
+p7
+aS'Rpi001'
+p8
+aS'5'
+p9
+aa.
