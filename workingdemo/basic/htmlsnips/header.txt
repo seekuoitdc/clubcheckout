@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<meta name="author" content="(Ami) Ahmad Touseef">
-<meta name="description" content="Play and control music with piece of paper">
-<meta name="keywords" content="Arduino, Raspberry Pi, Capacitive Touch Project, Python">
-<meta name="generator" content="Python Markdown">
-</head>
