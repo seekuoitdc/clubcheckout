@@ -1,0 +1,8 @@
+<body>
+<form method="POST">
+<input type="text" name="register" maxlength="36" pattern="[a-z][1-9][.][@]"></input>
+<input type="text" name="register" maxlength="9" pattern="[0-9]"></input>
+<input type="submit" value="Sign In"></input>
+<input type="submit" value="Sign In"></input>
+</form>
+</body>
